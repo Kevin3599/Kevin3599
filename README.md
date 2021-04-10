@@ -8,4 +8,5 @@ I am a senior high school student! Hi GitHub!
 - 📫 How to reach me: you can e-mail me if you want!🤔
 - 😄 Pronouns: 😀
 - ⚡ Fun fact: anime！anime！anime！
-![47637077_p1_master1200](https://user-images.githubusercontent.com/69574926/114257599-9de40080-99f3-11eb-8c46-1c5f6046a02c.jpg)
+![47637077_p1_master1200](https://user-images.githubusercontent.com/69574926/114257649-029f5b00-99f4-11eb-873d-64f74f1c186d.jpg)
+
