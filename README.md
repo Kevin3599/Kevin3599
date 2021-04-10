@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a senior high school student! HI GitHub!
+I am a senior high school student! Hi GitHub!
 - 🔭 I’m currently working on:Go,Python,Linux
 - 🌱 I’m currently learning:Go,Python,Linux,Pytorch
 - 👯 I’m looking to collaborate on:everything!
