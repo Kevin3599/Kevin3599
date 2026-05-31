@@ -34,18 +34,11 @@
 
 ---
 
-## GitHub Stats
+## GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin3599&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin3599&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+  <img src="metrics.svg" alt="GitHub Metrics"/>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kevin3599&theme=github-dark-blue&hide_border=true"/>
-</div>
-
-<!-- metrics.svg will replace the above once the GitHub Metrics Action succeeds -->
 
 ---
 
