@@ -37,7 +37,16 @@
 ## GitHub Metrics
 
 <div align="center">
-  <img src="metrics.svg" alt="GitHub Metrics"/>
+  <img src="metrics-stats.svg" width="49%"/>
+  <img src="metrics-langs.svg" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kevin3599&theme=github-dark-blue&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="metrics-calendar.svg"/>
 </div>
 
 ---
