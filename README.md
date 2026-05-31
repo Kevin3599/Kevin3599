@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kevin (赵涌程) 👋
+# Hi, I'm Kevin 👋
 
 **Computer Engineering @ UC Irvine · Embedded Systems · AI Agent · Robotics**
 
