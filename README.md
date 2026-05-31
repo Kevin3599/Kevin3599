@@ -22,7 +22,6 @@
 - 💼 Embedded Software Intern @ **Raise3D** — RK3568, RTSP, QML/Qt, Embedded Linux
 - 🤖 Building an **AI Agent quadruped robot** (SpotMicro + ESP32 + Raspberry Pi + LLM)
 - 🛠 Hands-on with **firmware development, PCB design, hardware debugging, cross-compilation**
-- 📅 Born in 2005
 
 ---
 
