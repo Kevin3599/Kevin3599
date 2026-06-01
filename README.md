@@ -52,3 +52,10 @@
   <img src="metrics-calendar.svg"/>
 </div>
 
+---
+
+## Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
