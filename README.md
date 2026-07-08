@@ -61,6 +61,5 @@
 2. ⭐ Starred [Winddfall/CoBridge](https://github.com/Winddfall/CoBridge)<br>
 3. ⬆️ Pushed undefined commit(s) to [Kevin3599/esp32-imu](https://github.com/Kevin3599/esp32-imu)<br>
 4. 🔱 Forked [Kevin3599/spotMicro](https://github.com/Kevin3599/spotMicro) from [mike4192/spotMicro](https://github.com/mike4192/spotMicro)<br>
-5. ⬆️ Pushed undefined commit(s) to [Kevin3599/esp32-imu](https://github.com/Kevin3599/esp32-imu)<br>
 <!--RECENT_ACTIVITY:end-->
 
