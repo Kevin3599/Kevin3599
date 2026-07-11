@@ -59,6 +59,5 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [SXP-Simon/astrbot_plugin_qq_group_daily_analysis](https://github.com/SXP-Simon/astrbot_plugin_qq_group_daily_analysis)<br>
 2. ⭐ Starred [Winddfall/CoBridge](https://github.com/Winddfall/CoBridge)<br>
-3. ⬆️ Pushed undefined commit(s) to [Kevin3599/esp32-imu](https://github.com/Kevin3599/esp32-imu)<br>
 <!--RECENT_ACTIVITY:end-->
 
